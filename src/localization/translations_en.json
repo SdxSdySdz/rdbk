@@ -1,0 +1,229 @@
+{
+    "Items": [
+        {"Key": "name", "Value": "NAME"},
+        {"Key": "settings", "Value": "Settings"},
+        {"Key": "health", "Value": "Health"},
+        {"Key": "games", "Value": "Games"},
+        {"Key": "food", "Value": "Food"},
+        {"Key": "shower", "Value": "Shower"},
+        {"Key": "education", "Value": "EDUCATION"},
+        {"Key": "career", "Value": "Career"},
+        {"Key": "fun", "Value": "Fun"},
+        {"Key": "friends", "Value": "Friends"},
+        {"Key": "tasks", "Value": "Tasks"},
+        {"Key": "bank", "Value": "Bank"},
+        {"Key": "upgradeshop", "Value": "Upgrade Shop"},
+        {"Key": "back", "Value": "Back"},
+        {"Key": "school", "Value": "SCHOOL"},
+        {"Key": "highschool", "Value": "HIGH SCHOOL"},
+        {"Key": "college", "Value": "COLLEGE"},
+        {"Key": "university", "Value": "UNIVERSITY"},
+        {"Key": "masterofscience", "Value": "MASTER OF SCIENCE"},
+        {"Key": "speedup", "Value": "SPEED UP"},
+        {"Key": "startlearning", "Value": "START LEARNING"},
+        {"Key": "junior", "Value": "JUNIOR"},
+        {"Key": "handyman", "Value": "HANDYMAN"},
+        {"Key": "polliceofficer", "Value": "POLICE OFFICER"},
+        {"Key": "nurse", "Value": "NURSE"},
+        {"Key": "doctor", "Value": "DOCTOR"},
+        {"Key": "manager", "Value": "MANAGER"},
+        {"Key": "president", "Value": "PRESIDENT"},
+        {"Key": "buy", "Value": "BUY"},
+        {"Key": "apply", "Value": "APPLY"},
+        {"Key": "changebep", "Value": "CHANGE BEP-20"},
+        {"Key": "confirm", "Value": "CONFIRM"},
+        {"Key": "later", "Value": "LATER"},
+        {"Key": "bep-20", "Value": "ENTER YOUR   BEP-20"},
+        {"Key": "banktext", "Value": "Enter the number of coins you want to withdraw"},
+        {"Key": "shop", "Value": "SHOP"},
+        {"Key": "dietext", "Value": "If you don't take care of your pet's needs, it may die. Revive your pet will cost 2 referrals"},
+        {
+            "Key": "back",
+            "Value": "Back" 
+        },
+        {
+            "Key": "platformer_game_name",
+            "Value": "Platformer" 
+        },
+        {
+            "Key": "catching_from_all_sides_game_name",
+            "Value": "Catch the stars from all sides" 
+        },
+        {
+            "Key": "catching_from_sky_game_name",
+            "Value": "Catch the stars from the sky" 
+        },
+        {
+            "Key": "level_failed",
+            "Value": "Level failed" 
+        },
+        {
+            "Key": "back_to_menu",
+            "Value": "Back to menu" 
+        },
+        {
+            "Key": "try_again",
+            "Value": "Try again" 
+        },
+        {
+            "Key": "level_completed",
+            "Value": "Level completed" 
+        },
+        {
+            "Key": "continue",
+            "Value": "Continue" 
+        },
+        {
+            "Key": "stars_to_tokens_exchange_rate",
+            "Value": "Exchange rate: \r\n<align=center>1 <sprite name=\"coin\"> = {0} <sprite name=\"token\"></align>" 
+        },
+        {
+            "Key": "stars_collected",
+            "Value": "Stars collected: \r\n<align=center>{0} <sprite name=\"coin\"></align>" 
+        },
+        {
+            "Key": "tokens_earned",
+            "Value": "Tokens earned:\r\n\r\n<size=92><align=center>{0} <sprite name=\"token\"></align></size>" 
+        },
+        {
+            "Key": "new_levels_in",
+            "Value": "New levels in\n{0}:{1}:{2}" 
+        },
+        {
+            "Key": "stars_missed",
+            "Value": "Stars missed: {0}!" 
+        },
+        {
+            "Key": "not_all_stars_have_been_collected_info_message",
+            "Value": "Not all stars have been collected!" 
+        },
+        {
+            "Key": "complete_previous_level_info_message",
+            "Value": "Complete the previous level first!" 
+        },
+        {
+            "Key": "invite_friends_to_unlock_levels_info_message",
+            "Value": "Invite two friends to unlock the levels!" 
+        },
+        {
+            "Key": "is_spend_ticket",
+            "Value": "Spend a ticket?" 
+        },
+        {
+            "Key": "tickets_sold_out_info_message",
+            "Value": "Tickets are sold out!" 
+        },
+        {
+            "Key": "loading",
+            "Value": "Loading" 
+        },
+        {
+            "Key": "pause",
+            "Value": "Pause" 
+        },
+        {
+            "Key": "language",
+            "Value": "Language" 
+        },
+        {
+            "Key": "language_changed_info_message",
+            "Value": "The language has been changed to {0}!" 
+        },
+        {
+            "Key": "en",
+            "Value": "English" 
+        },
+        {
+            "Key": "ru",
+            "Value": "RUssian" 
+        },
+        {
+            "Key": "press_buttons_to_start",
+            "Value": "Press any of the buttons above to start" 
+        },
+        {
+            "Key": "movement",
+            "Value": "Movement" 
+        },
+        {
+            "Key": "jump",
+            "Value": "Jump" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_1",
+            "Value": "You can jump off walls by pressing the jump button" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_2",
+            "Value": "To kill an enemy, jump on him" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_3",
+            "Value": "To double jump, press the jump button while flying" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_1",
+            "Value": "Press the buttons to catch stars from different chutes" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_2",
+            "Value": "You lose if you don't collect the required number of stars by the end of the timer" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_3",
+            "Value": "On the first levels there are only 2 chutes, only the bottom buttons are needed" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_sky_1",
+            "Value": "Press the buttons to move and catch stars" 
+        },
+        {
+            "Key": "push_off_walls_to_move_upward_info_message",
+            "Value": "Push off the walls to move upward" 
+        },
+        {
+            "Key": "cleanliness",
+            "Value": "Cleanliness" 
+        },
+        {
+            "Key": "shower_process_is_complete_info_message",
+            "Value": "The pet is clean!" 
+        },
+        {
+            "Key": "satiety",
+            "Value": "Satiety" 
+        },
+        {
+            "Key": "food_process_is_complete_info_message",
+            "Value": "The pet is full!" 
+        },
+        {
+            "Key": "fun", 
+            "Value": "Fun"
+        },
+        {
+            "Key": "fun_process_is_complete_info_message",
+            "Value": "The pet had enough fun!" 
+        },
+        {
+            "Key": "close",
+            "Value": "Close" 
+        },
+        {
+            "Key": "music_volume",
+            "Value": "Music volume" 
+        },
+        {
+            "Key": "sound_volume",
+            "Value": "Sound volume" 
+        },
+        {
+            "Key": "your_bep",
+            "Value": "Your bep-20:\n{0}" 
+        },
+        {
+            "Key": "change_bep",
+            "Value": "Change bep-20" 
+        }
+    ]
+}

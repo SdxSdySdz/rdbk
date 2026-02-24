@@ -1,0 +1,227 @@
+{
+    "Items": [
+        {"Key": "name", "Value": "ИМЯ"},
+        {"Key": "settings", "Value": "Настройки"},
+        {"Key": "health", "Value": "Здоровье"},
+        {"Key": "games", "Value": "Игры"},
+        {"Key": "food", "Value": "Еда"},
+        {"Key": "shower", "Value": "Душ"},
+        {"Key": "education", "Value": "ОБУЧЕНИЕ"},
+        {"Key": "career", "Value": "Карьера"},
+        {"Key": "friends", "Value": "Друзья"},
+        {"Key": "tasks", "Value": "Задачи"},
+        {"Key": "bank", "Value": "Банк"},
+        {"Key": "upgradeshop", "Value": "Магазин"},
+        {"Key": "school", "Value": "ШКОЛА"},
+        {"Key": "highschool", "Value": "СТАРШАЯ ШКОЛА"},
+        {"Key": "college", "Value": "КОЛЛЕДЖ"},
+        {"Key": "university", "Value": "УНИВЕРСИТЕТ"},
+        {"Key": "masterofscience", "Value": "МАГИСТРАТУРА"},
+        {"Key": "speedup", "Value": "УСКОРИТЬ"},
+        {"Key": "startlearning", "Value": "НАЧАТЬ ОБУЧЕНИЕ"},
+        {"Key": "junior", "Value": "МОЛОДОЙ"},
+        {"Key": "handyman", "Value": "РАБОЧИЙ"},
+        {"Key": "polliceofficer", "Value": "ПОЛИЦЕЙСКИЙ"},
+        {"Key": "nurse", "Value": "ФЕЛЬДШЕР"},
+        {"Key": "doctor", "Value": "ДОКТОР"},
+        {"Key": "manager", "Value": "МЕНЕДЖЕР"},
+        {"Key": "president", "Value": "ПРЕЗИДЕНТ"},
+        {"Key": "buy", "Value": "BUY"},
+        {"Key": "apply", "Value": "ПРИМЕНИТЬ"},
+        {"Key": "changebep", "Value": "ИЗМЕНИТЬ BEP-20"},
+        {"Key": "confirm", "Value": "ПОДТВЕРДИТЬ"},
+        {"Key": "later", "Value": "ПОЗЖЕ"},
+        {"Key": "bep-20", "Value": "ВВЕДИТЕ СВОЙ   BEP-20"},
+        {"Key": "banktext", "Value": "Введите количество монет, которые вы хотите вывести"},
+        {"Key": "shop", "Value": "МАГАЗИН"},
+        {"Key": "dietext", "Value": "Если не следить за потребностями питомца, он может умереть. Воскресить питомца будет стоить 2 реферала"},
+        {
+            "Key": "back",
+            "Value": "Назад" 
+        },
+        {
+            "Key": "platformer_game_name",
+            "Value": "Платформер" 
+        },
+        {
+            "Key": "catching_from_all_sides_game_name",
+            "Value": "Лови звёзды со всех сторон" 
+        },
+        {
+            "Key": "catching_from_sky_game_name",
+            "Value": "Лови звёзды с неба" 
+        },
+        {
+            "Key": "level_failed",
+            "Value": "Уровень провален" 
+        },
+        {
+            "Key": "back_to_menu",
+            "Value": "Назад в меню" 
+        },
+        {
+            "Key": "try_again",
+            "Value": "Ещё раз" 
+        },
+        {
+            "Key": "level_completed",
+            "Value": "Уровень пройден" 
+        },
+        {
+            "Key": "continue",
+            "Value": "Продолжить" 
+        },
+        {
+            "Key": "stars_to_tokens_exchange_rate",
+            "Value": "Курс обмена: \r\n<align=center>1 <sprite name=\"coin\"> = {0} <sprite name=\"token\"></align>" 
+        },
+        {
+            "Key": "stars_collected",
+            "Value": "Звёзд собрано: \r\n<align=center>{0} <sprite name=\"coin\"></align>" 
+        },
+        {
+            "Key": "tokens_earned",
+            "Value": "Токенов получено:\r\n\r\n<size=92><align=center>{0} <sprite name=\"token\"></align></size>" 
+        },
+        {
+            "Key": "new_levels_in",
+            "Value": "Новые уровни через\n{0}:{1}:{2}" 
+        },
+        {
+            "Key": "stars_missed",
+            "Value": "Звёзд пропущено: {0}!" 
+        },
+        {
+            "Key": "not_all_stars_have_been_collected_info_message",
+            "Value": "Не все звёзды собратны!" 
+        },
+        {
+            "Key": "complete_previous_level_info_message",
+            "Value": "Сначала пройдите предыдущий уровень!" 
+        },
+        {
+            "Key": "invite_friends_to_unlock_levels_info_message",
+            "Value": "Пригласите двух друзей, чтобы открыть уровени!" 
+        },
+        {
+            "Key": "is_spend_ticket",
+            "Value": "Потратить билетик?" 
+        },
+        {
+            "Key": "tickets_sold_out_info_message",
+            "Value": "Билеты закончились!" 
+        },
+        {
+            "Key": "loading",
+            "Value": "Загрузка" 
+        },
+        {
+            "Key": "pause",
+            "Value": "Пауза" 
+        },
+        {
+            "Key": "language",
+            "Value": "Язык" 
+        },
+        {
+            "Key": "language_changed_info_message",
+            "Value": "Язык был изменён на {0}!" 
+        },
+        {
+            "Key": "en",
+            "Value": "Английский" 
+        },
+        {
+            "Key": "ru",
+            "Value": "Русский" 
+        },
+        {
+            "Key": "press_buttons_to_start",
+            "Value": "Нажмите любую из кнопок выше для старта" 
+        },
+        {
+            "Key": "movement",
+            "Value": "Перемещение" 
+        },
+        {
+            "Key": "jump",
+            "Value": "Прыжок" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_1",
+            "Value": "Вы можете отпрыгивать от стен, нажимая кнопку прыжка" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_2",
+            "Value": "Чтобы убить врага, прыгните на него" 
+        },
+        {
+            "Key": "hero_input_hint_platformer_3",
+            "Value": "Для двойного прыжка нажмите кнопку прыжок во время полёта" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_1",
+            "Value": "Нажимай на кнопки, чтобы ловить звёзды с разных желобов" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_2",
+            "Value": "Ты проиграешь, если не соберёшь нужное количество звёзд к концу таймера" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_all_sides_3",
+            "Value": "На первых уровнях только 2 желоба, нужны только нижние кнопки" 
+        },
+        {
+            "Key": "hero_input_hint_catching_from_sky_1",
+            "Value": "Нажимай на кнопки, чтобы передвигаться и ловить звёзды" 
+        },
+        {
+            "Key": "push_off_walls_to_move_upward_info_message",
+            "Value": "Отталкивайтесь от стен, нажиамя прыжок, чтобы пройти дальше" 
+        },
+        {
+            "Key": "cleanliness",
+            "Value": "Чистота" 
+        },
+        {
+            "Key": "shower_process_is_complete_info_message",
+            "Value": "Питомец чист!" 
+        },
+        {
+            "Key": "satiety",
+            "Value": "Сытость" 
+        },
+        {
+            "Key": "food_process_is_complete_info_message",
+            "Value": "Питомец сыт!" 
+        },
+        {
+            "Key": "fun", 
+            "Value": "Веселье"
+        },
+        {
+            "Key": "fun_process_is_complete_info_message",
+            "Value": "Питомец достаточно развлёкся!" 
+        },
+        {
+            "Key": "close",
+            "Value": "Закрыть" 
+        },
+        {
+            "Key": "music_volume",
+            "Value": "Громкость музыки" 
+        },
+        {
+            "Key": "sound_volume",
+            "Value": "Громкость звуков" 
+        },
+        {
+            "Key": "your_bep",
+            "Value": "Ваш bep-20:\n{0}" 
+        },
+        {
+            "Key": "change_bep",
+            "Value": "Изменить bep-20" 
+        }
+    ]
+}
